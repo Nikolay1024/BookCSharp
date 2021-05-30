@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter17\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter17\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter17\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter17\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter17\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter17\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter17\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.pdb

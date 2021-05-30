@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ConstDataApp\obj\Debug\ConstDataApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ConstDataApp\bin\Debug\ConstDataApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ConstDataApp\bin\Debug\ConstDataApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ConstDataApp\bin\Debug\ConstDataApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ConstDataApp\obj\Debug\ConstDataApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ConstDataApp\obj\Debug\ConstDataApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ConstDataApp\obj\Debug\ConstDataApp.pdb

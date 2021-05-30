@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter6\BasicInheritanceApp\bin\Debug\BasicInheritanceApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter6\BasicInheritanceApp\bin\Debug\BasicInheritanceApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\BasicInheritanceApp\bin\Debug\BasicInheritanceApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter6\BasicInheritanceApp\obj\Debug\BasicInheritanceApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\BasicInheritanceApp\obj\Debug\BasicInheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\BasicInheritanceApp\obj\Debug\BasicInheritanceApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\BasicInheritanceApp\obj\Debug\BasicInheritanceApp.pdb

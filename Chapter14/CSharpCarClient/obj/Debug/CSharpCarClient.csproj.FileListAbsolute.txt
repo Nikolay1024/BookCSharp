@@ -1,0 +1,10 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\bin\Debug\CarLibrary.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\bin\Debug\CarLibrary.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\obj\Debug\CSharpCarClient.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CopyComplete
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

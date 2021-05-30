@@ -1,0 +1,10 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.xml
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.Resources.resources
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbproj.GenerateResource.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.xml
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.pdb

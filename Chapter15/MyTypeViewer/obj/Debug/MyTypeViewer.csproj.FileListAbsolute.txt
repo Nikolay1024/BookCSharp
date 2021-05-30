@@ -1,0 +1,9 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\bin\Debug\MyTypeViewer.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\bin\Debug\MyTypeViewer.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\bin\Debug\MyTypeViewer.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\bin\Debug\CarLibrary.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\obj\Debug\MyTypeViewer.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\obj\Debug\MyTypeViewer.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\obj\Debug\MyTypeViewer.csproj.CopyComplete
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\obj\Debug\MyTypeViewer.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\MyTypeViewer\obj\Debug\MyTypeViewer.pdb

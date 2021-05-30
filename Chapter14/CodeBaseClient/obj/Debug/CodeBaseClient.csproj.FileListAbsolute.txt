@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CodeBaseClient\bin\Debug\CodeBaseClient.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CodeBaseClient\bin\Debug\CodeBaseClient.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CodeBaseClient\bin\Debug\CodeBaseClient.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CodeBaseClient\obj\Debug\CodeBaseClient.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CodeBaseClient\obj\Debug\CodeBaseClient.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CodeBaseClient\obj\Debug\CodeBaseClient.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter14\CodeBaseClient\obj\Debug\CodeBaseClient.pdb

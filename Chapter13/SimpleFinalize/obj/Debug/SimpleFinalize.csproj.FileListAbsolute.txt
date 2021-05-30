@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleFinalize\obj\Debug\SimpleFinalize.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleFinalize\obj\Debug\SimpleFinalize.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleFinalize\obj\Debug\SimpleFinalize.pdb

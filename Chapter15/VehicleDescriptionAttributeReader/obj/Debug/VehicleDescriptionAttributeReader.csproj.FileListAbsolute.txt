@@ -1,0 +1,10 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\bin\Debug\VehicleDescriptionAttributeReader.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\bin\Debug\VehicleDescriptionAttributeReader.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\bin\Debug\VehicleDescriptionAttributeReader.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\bin\Debug\AttributedCarLibrary.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\bin\Debug\AttributedCarLibrary.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\obj\Debug\VehicleDescriptionAttributeReader.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\obj\Debug\VehicleDescriptionAttributeReader.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\obj\Debug\VehicleDescriptionAttributeReader.csproj.CopyComplete
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\obj\Debug\VehicleDescriptionAttributeReader.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReader\obj\Debug\VehicleDescriptionAttributeReader.pdb

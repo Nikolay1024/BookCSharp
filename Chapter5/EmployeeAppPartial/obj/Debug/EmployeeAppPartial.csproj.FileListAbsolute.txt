@@ -1,0 +1,6 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter5\EmployeeApp2\bin\Debug\EmployeeAppPartial.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter5\EmployeeApp2\bin\Debug\EmployeeAppPartial.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\EmployeeApp2\bin\Debug\EmployeeAppPartial.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter5\EmployeeApp2\obj\Debug\EmployeeAppPartial.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\EmployeeApp2\obj\Debug\EmployeeAppPartial.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\EmployeeApp2\obj\Debug\EmployeeAppPartial.pdb

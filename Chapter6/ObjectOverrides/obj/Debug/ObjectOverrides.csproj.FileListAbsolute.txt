@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ObjectOverrides\obj\Debug\ObjectOverrides.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ObjectOverrides\obj\Debug\ObjectOverrides.pdb

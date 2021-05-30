@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter11\SimpleIndexer2\bin\Debug\SimpleIndexer2.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter11\SimpleIndexer2\bin\Debug\SimpleIndexer2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\SimpleIndexer2\bin\Debug\SimpleIndexer2.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter11\SimpleIndexer2\obj\Debug\SimpleIndexer2.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\SimpleIndexer2\obj\Debug\SimpleIndexer2.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\SimpleIndexer2\obj\Debug\SimpleIndexer2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\SimpleIndexer2\obj\Debug\SimpleIndexer2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ShapesApp\obj\Debug\ShapesApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ShapesApp\obj\Debug\ShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\ShapesApp\obj\Debug\ShapesApp.pdb

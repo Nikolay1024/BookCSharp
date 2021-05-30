@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\bin\Debug\AddWithThreads.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\bin\Debug\AddWithThreads.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\bin\Debug\AddWithThreads.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.pdb

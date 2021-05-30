@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyObjectlnstantiation", "LazyObjectlnstantiation.csproj", "{CF85F734-FFCE-439C-88A4-E6A94C93C715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF85F734-FFCE-439C-88A4-E6A94C93C715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF85F734-FFCE-439C-88A4-E6A94C93C715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF85F734-FFCE-439C-88A4-E6A94C93C715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF85F734-FFCE-439C-88A4-E6A94C93C715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A7A7E4-2D65-4C80-B739-9B5A3ED0A2CC}
+	EndGlobalSection
+EndGlobal

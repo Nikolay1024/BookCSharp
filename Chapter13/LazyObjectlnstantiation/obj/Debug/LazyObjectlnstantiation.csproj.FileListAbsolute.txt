@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter13\LazyObjectlnstantiation\bin\Debug\LazyObjectlnstantiation.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter13\LazyObjectlnstantiation\bin\Debug\LazyObjectlnstantiation.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter13\LazyObjectlnstantiation\bin\Debug\LazyObjectlnstantiation.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter13\LazyObjectlnstantiation\obj\Debug\LazyObjectlnstantiation.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter13\LazyObjectlnstantiation\obj\Debug\LazyObjectlnstantiation.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter13\LazyObjectlnstantiation\obj\Debug\LazyObjectlnstantiation.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter13\LazyObjectlnstantiation\obj\Debug\LazyObjectlnstantiation.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverArray\obj\Debug\LinqOverArray.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverArray\obj\Debug\LinqOverArray.pdb

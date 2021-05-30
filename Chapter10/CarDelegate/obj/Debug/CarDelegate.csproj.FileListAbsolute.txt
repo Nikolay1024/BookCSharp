@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarDelegate\bin\Debug\CarDelegate.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarDelegate\bin\Debug\CarDelegate.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarDelegate\bin\Debug\CarDelegate.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarDelegate\obj\Debug\CarDelegate.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarDelegate\obj\Debug\CarDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarDelegate\obj\Debug\CarDelegate.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarDelegate\obj\Debug\CarDelegate.pdb

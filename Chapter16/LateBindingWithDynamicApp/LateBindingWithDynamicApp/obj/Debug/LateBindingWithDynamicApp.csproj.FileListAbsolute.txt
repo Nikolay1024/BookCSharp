@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\LateBindingWithDynamicApp\bin\Debug\LateBindingWithDynamicApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\LateBindingWithDynamicApp\bin\Debug\LateBindingWithDynamicApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\LateBindingWithDynamicApp\bin\Debug\LateBindingWithDynamicApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\LateBindingWithDynamicApp\obj\Debug\LateBindingWithDynamicApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\LateBindingWithDynamicApp\obj\Debug\LateBindingWithDynamicApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\LateBindingWithDynamicApp\obj\Debug\LateBindingWithDynamicApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\LateBindingWithDynamicApp\obj\Debug\LateBindingWithDynamicApp.pdb

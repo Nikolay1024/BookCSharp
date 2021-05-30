@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.csprojAssemblyReference.cache

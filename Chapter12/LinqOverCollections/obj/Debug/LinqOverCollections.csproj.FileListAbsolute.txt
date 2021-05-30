@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverCollections\bin\Debug\LinqOverCollections.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverCollections\bin\Debug\LinqOverCollections.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverCollections\bin\Debug\LinqOverCollections.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverCollections\obj\Debug\LinqOverCollections.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverCollections\obj\Debug\LinqOverCollections.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverCollections\obj\Debug\LinqOverCollections.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqOverCollections\obj\Debug\LinqOverCollections.pdb

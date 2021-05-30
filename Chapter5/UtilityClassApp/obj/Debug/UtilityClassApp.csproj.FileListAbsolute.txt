@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter5\UtilityClassApp\bin\Debug\UtilityClassApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter5\UtilityClassApp\bin\Debug\UtilityClassApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\UtilityClassApp\bin\Debug\UtilityClassApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter5\UtilityClassApp\obj\Debug\UtilityClassApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\UtilityClassApp\obj\Debug\UtilityClassApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\UtilityClassApp\obj\Debug\UtilityClassApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\UtilityClassApp\obj\Debug\UtilityClassApp.pdb

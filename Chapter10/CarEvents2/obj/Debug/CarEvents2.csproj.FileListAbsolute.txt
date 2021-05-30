@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarEvents2\bin\Debug\CarEvents2.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarEvents2\bin\Debug\CarEvents2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarEvents2\bin\Debug\CarEvents2.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarEvents2\obj\Debug\CarEvents2.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarEvents2\obj\Debug\CarEvents2.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarEvents2\obj\Debug\CarEvents2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\CarEvents2\obj\Debug\CarEvents2.pdb

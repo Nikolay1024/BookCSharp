@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter5\StaticDataAndMembersApp\bin\Debug\StaticDataAndMembersApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter5\StaticDataAndMembersApp\bin\Debug\StaticDataAndMembersApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\StaticDataAndMembersApp\bin\Debug\StaticDataAndMembersApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter5\StaticDataAndMembersApp\obj\Debug\StaticDataAndMembersApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\StaticDataAndMembersApp\obj\Debug\StaticDataAndMembersApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\StaticDataAndMembersApp\obj\Debug\StaticDataAndMembersApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\StaticDataAndMembersApp\obj\Debug\StaticDataAndMembersApp.pdb

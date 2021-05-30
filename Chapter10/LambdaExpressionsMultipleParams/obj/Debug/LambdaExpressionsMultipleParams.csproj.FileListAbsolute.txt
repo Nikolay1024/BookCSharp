@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter10\LambdaExpressionsMultipleParams\bin\Debug\LambdaExpressionsMultipleParams.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter10\LambdaExpressionsMultipleParams\bin\Debug\LambdaExpressionsMultipleParams.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\LambdaExpressionsMultipleParams\bin\Debug\LambdaExpressionsMultipleParams.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.pdb

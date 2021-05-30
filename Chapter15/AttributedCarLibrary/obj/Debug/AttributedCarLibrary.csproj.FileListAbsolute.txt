@@ -1,0 +1,6 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringFormatting\obj\Debug\StringFormatting.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringFormatting\obj\Debug\StringFormatting.pdb

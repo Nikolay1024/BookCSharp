@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter7\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter7\CustomException\bin\Debug\CustomException.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter7\CustomException\bin\Debug\CustomException.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter7\CustomException\obj\Debug\CustomException.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter7\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter7\CustomException\obj\Debug\CustomException.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter7\CustomException\obj\Debug\CustomException.pdb

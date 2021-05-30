@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter11\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter11\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter11\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

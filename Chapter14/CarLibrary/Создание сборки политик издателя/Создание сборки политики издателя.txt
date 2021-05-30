@@ -1,0 +1,4 @@
+// Создание сборки политик издателя
+al /link:CarLibraryPolicy.config /out:Policy.1.0.CarLibrary.dll /keyf:MyKeyFile.snk /v:1.0.0.0
+// Помещение сборки политик издателя в GAC
+gacutil /i Policy.1.0.CarLibrary.dll

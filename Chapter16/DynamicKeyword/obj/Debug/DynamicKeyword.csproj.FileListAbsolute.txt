@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter16\DynamicKeyword\bin\Debug\DynamicKeyword.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter16\DynamicKeyword\bin\Debug\DynamicKeyword.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter16\DynamicKeyword\bin\Debug\DynamicKeyword.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter16\DynamicKeyword\obj\Debug\DynamicKeyword.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\DynamicKeyword\obj\Debug\DynamicKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\DynamicKeyword\obj\Debug\DynamicKeyword.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter16\DynamicKeyword\obj\Debug\DynamicKeyword.pdb

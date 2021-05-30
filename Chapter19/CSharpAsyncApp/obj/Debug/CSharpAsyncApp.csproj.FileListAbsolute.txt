@@ -1,0 +1,12 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\bin\Debug\CSharpAsyncApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\bin\Debug\CSharpAsyncApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\bin\Debug\CSharpAsyncApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\obj\Debug\CSharpAsyncApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\obj\Debug\CSharpAsyncApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\obj\Debug\CSharpAsyncApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\obj\Debug\CSharpAsyncApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Николай\source\repos\Book-C#\Chapter19\CSharpAsyncApp\obj\Debug\CSharpAsyncApp.csproj.CopyComplete

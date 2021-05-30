@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter3\BasicConsolelO\bin\Debug\BasicConsolelO.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter3\BasicConsolelO\bin\Debug\BasicConsolelO.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\BasicConsolelO\bin\Debug\BasicConsolelO.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter3\BasicConsolelO\obj\Debug\BasicConsolelO.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\BasicConsolelO\obj\Debug\BasicConsolelO.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\BasicConsolelO\obj\Debug\BasicConsolelO.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\BasicConsolelO\obj\Debug\BasicConsolelO.pdb

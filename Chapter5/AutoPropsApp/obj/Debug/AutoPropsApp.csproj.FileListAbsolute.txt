@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter5\AutoPropsApp\bin\Debug\AutoPropsApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter5\AutoPropsApp\bin\Debug\AutoPropsApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\AutoPropsApp\bin\Debug\AutoPropsApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter5\AutoPropsApp\obj\Debug\AutoPropsApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\AutoPropsApp\obj\Debug\AutoPropsApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\AutoPropsApp\obj\Debug\AutoPropsApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\AutoPropsApp\obj\Debug\AutoPropsApp.pdb

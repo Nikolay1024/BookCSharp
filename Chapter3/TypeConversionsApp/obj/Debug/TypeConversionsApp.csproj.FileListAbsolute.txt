@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter3\TypeConversionsApp\bin\Debug\TypeConversionsApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter3\TypeConversionsApp\bin\Debug\TypeConversionsApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\TypeConversionsApp\bin\Debug\TypeConversionsApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter3\TypeConversionsApp\obj\Debug\TypeConversionsApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\TypeConversionsApp\obj\Debug\TypeConversionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\TypeConversionsApp\obj\Debug\TypeConversionsApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\TypeConversionsApp\obj\Debug\TypeConversionsApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.pdb

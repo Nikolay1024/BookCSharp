@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\bin\Debug\LinqExpressions.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\bin\Debug\LinqExpressions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\bin\Debug\LinqExpressions.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.pdb

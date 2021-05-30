@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadPoolApp\bin\Debug\ThreadPoolApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadPoolApp\obj\Debug\ThreadPoolApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadPoolApp\obj\Debug\ThreadPoolApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadPoolApp\obj\Debug\ThreadPoolApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadPoolApp\obj\Debug\ThreadPoolApp.pdb

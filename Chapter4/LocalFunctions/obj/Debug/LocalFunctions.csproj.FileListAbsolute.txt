@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter4\LocalFunctions\bin\Debug\LocalFunctions.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter4\LocalFunctions\bin\Debug\LocalFunctions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter4\LocalFunctions\bin\Debug\LocalFunctions.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter4\LocalFunctions\obj\Debug\LocalFunctions.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter4\LocalFunctions\obj\Debug\LocalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter4\LocalFunctions\obj\Debug\LocalFunctions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter4\LocalFunctions\obj\Debug\LocalFunctions.pdb

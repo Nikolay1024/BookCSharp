@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter20\SimpleFileIO\bin\Debug\SimpleFileIO.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter20\SimpleFileIO\bin\Debug\SimpleFileIO.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter20\SimpleFileIO\bin\Debug\SimpleFileIO.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter20\SimpleFileIO\obj\Debug\SimpleFileIO.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter20\SimpleFileIO\obj\Debug\SimpleFileIO.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter20\SimpleFileIO\obj\Debug\SimpleFileIO.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter20\SimpleFileIO\obj\Debug\SimpleFileIO.pdb

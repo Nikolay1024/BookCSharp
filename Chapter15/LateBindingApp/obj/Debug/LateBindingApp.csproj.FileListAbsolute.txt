@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter15\LateBindingApp\bin\Debug\LateBindingApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\LateBindingApp\bin\Debug\LateBindingApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\LateBindingApp\obj\Debug\LateBindingApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\LateBindingApp\obj\Debug\LateBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\LateBindingApp\obj\Debug\LateBindingApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\LateBindingApp\obj\Debug\LateBindingApp.pdb

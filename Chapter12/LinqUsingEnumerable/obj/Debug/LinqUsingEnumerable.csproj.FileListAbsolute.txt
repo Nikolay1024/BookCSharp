@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter11\UnsafeCode\bin\Debug\UnsafeCode.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter11\UnsafeCode\bin\Debug\UnsafeCode.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\UnsafeCode\bin\Debug\UnsafeCode.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter11\UnsafeCode\obj\Debug\UnsafeCode.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\UnsafeCode\obj\Debug\UnsafeCode.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\UnsafeCode\obj\Debug\UnsafeCode.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\UnsafeCode\obj\Debug\UnsafeCode.pdb

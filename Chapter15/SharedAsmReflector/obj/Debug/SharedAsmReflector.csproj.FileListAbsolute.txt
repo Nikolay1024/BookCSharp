@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\SharedAsmReflector\bin\Debug\SharedAsmReflector.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter15\SharedAsmReflector\bin\Debug\SharedAsmReflector.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\SharedAsmReflector\bin\Debug\SharedAsmReflector.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\SharedAsmReflector\obj\Debug\SharedAsmReflector.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\SharedAsmReflector\obj\Debug\SharedAsmReflector.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\SharedAsmReflector\obj\Debug\SharedAsmReflector.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\SharedAsmReflector\obj\Debug\SharedAsmReflector.pdb

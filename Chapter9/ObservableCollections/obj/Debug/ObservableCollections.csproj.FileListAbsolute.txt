@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter9\ObservableCollections\bin\Debug\ObservableCollections.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter9\ObservableCollections\bin\Debug\ObservableCollections.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter9\ObservableCollections\bin\Debug\ObservableCollections.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter9\ObservableCollections\obj\Debug\ObservableCollections.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter9\ObservableCollections\obj\Debug\ObservableCollections.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter9\ObservableCollections\obj\Debug\ObservableCollections.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter9\ObservableCollections\obj\Debug\ObservableCollections.pdb

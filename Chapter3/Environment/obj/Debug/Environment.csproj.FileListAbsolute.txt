@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter3\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\Environment\bin\Debug\EnvironmentApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter3\Environment\bin\Debug\EnvironmentApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\Environment\bin\Debug\EnvironmentApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter3\Environment\obj\Debug\EnvironmentApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\Environment\obj\Debug\EnvironmentApp.pdb

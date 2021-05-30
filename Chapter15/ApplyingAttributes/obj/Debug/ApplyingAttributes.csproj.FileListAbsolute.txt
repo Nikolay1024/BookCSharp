@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ApplyingAttributes\bin\Debug\ApplyingAttributes.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ApplyingAttributes\obj\Debug\ApplyingAttributes.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ApplyingAttributes\obj\Debug\ApplyingAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ApplyingAttributes\obj\Debug\ApplyingAttributes.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ApplyingAttributes\obj\Debug\ApplyingAttributes.pdb

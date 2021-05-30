@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TypeInterlocked\bin\Debug\TypeInterlocked.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TypeInterlocked\bin\Debug\TypeInterlocked.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TypeInterlocked\bin\Debug\TypeInterlocked.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TypeInterlocked\obj\Debug\TypeInterlocked.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TypeInterlocked\obj\Debug\TypeInterlocked.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TypeInterlocked\obj\Debug\TypeInterlocked.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TypeInterlocked\obj\Debug\TypeInterlocked.pdb

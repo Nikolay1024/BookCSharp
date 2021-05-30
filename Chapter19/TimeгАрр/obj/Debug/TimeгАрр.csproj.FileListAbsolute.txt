@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TimeгАрр\bin\Debug\TimeгАрр.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TimeгАрр\bin\Debug\TimeгАрр.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TimeгАрр\bin\Debug\TimeгАрр.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TimeгАрр\obj\Debug\TimeгАрр.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TimeгАрр\obj\Debug\TimeгАрр.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TimeгАрр\obj\Debug\TimeгАрр.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\TimeгАрр\obj\Debug\TimeгАрр.csprojAssemblyReference.cache

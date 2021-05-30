@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter4\ArraysApp\bin\Debug\ArraysApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter4\ArraysApp\bin\Debug\ArraysApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter4\ArraysApp\bin\Debug\ArraysApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter4\ArraysApp\obj\Debug\ArraysApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter4\ArraysApp\obj\Debug\ArraysApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter4\ArraysApp\obj\Debug\ArraysApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter4\ArraysApp\obj\Debug\ArraysApp.pdb

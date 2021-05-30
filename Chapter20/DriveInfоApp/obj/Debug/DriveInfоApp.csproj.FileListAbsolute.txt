@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DriveInfоApp\bin\Debug\DriveInfоApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DriveInfоApp\bin\Debug\DriveInfоApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DriveInfоApp\bin\Debug\DriveInfоApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DriveInfоApp\obj\Debug\DriveInfоApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DriveInfоApp\obj\Debug\DriveInfоApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DriveInfоApp\obj\Debug\DriveInfоApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DriveInfоApp\obj\Debug\DriveInfоApp.pdb

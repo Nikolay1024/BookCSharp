@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

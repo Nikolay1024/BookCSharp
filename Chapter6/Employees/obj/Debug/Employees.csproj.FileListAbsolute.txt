@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter6\Employees\bin\Debug\Employees.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter6\Employees\bin\Debug\Employees.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\Employees\bin\Debug\Employees.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter6\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter6\Employees\obj\Debug\Employees.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter6\Employees\obj\Debug\Employees.pdb

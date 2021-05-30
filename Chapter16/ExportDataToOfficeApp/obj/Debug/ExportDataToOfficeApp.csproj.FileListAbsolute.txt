@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter16\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter16\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter16\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter16\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter16\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.pdb

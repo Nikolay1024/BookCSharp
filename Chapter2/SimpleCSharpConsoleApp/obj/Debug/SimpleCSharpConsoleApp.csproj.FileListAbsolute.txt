@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter2\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter2\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter2\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter2\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter2\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter2\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter2\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MyEBookReader\bin\Debug\MyEBookReader.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MyEBookReader\bin\Debug\MyEBookReader.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MyEBookReader\bin\Debug\MyEBookReader.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MyEBookReader\obj\Debug\MyEBookReader.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MyEBookReader\obj\Debug\MyEBookReader.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MyEBookReader\obj\Debug\MyEBookReader.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MyEBookReader\obj\Debug\MyEBookReader.pdb

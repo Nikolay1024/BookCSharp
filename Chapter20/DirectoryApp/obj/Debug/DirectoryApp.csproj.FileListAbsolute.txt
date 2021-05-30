@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DirectoryApp\obj\Debug\DirectoryApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DirectoryApp\obj\Debug\DirectoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter20\DirectoryApp\obj\Debug\DirectoryApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncDelegate2\bin\Debug\AsyncDelegate2.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncDelegate2\bin\Debug\AsyncDelegate2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncDelegate2\bin\Debug\AsyncDelegate2.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncDelegate2\obj\Debug\AsyncDelegate2.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncDelegate2\obj\Debug\AsyncDelegate2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncDelegate2\obj\Debug\AsyncDelegate2.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncDelegate2\obj\Debug\AsyncDelegate2.csprojAssemblyReference.cache

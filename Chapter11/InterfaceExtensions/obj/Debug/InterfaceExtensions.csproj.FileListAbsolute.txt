@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter11\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter11\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\InterfaceExtensions\bin\Debug\InterfaceExtensions.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter11\InterfaceExtensions\obj\Debug\InterfaceExtensions.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\InterfaceExtensions\obj\Debug\InterfaceExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\InterfaceExtensions\obj\Debug\InterfaceExtensions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\InterfaceExtensions\obj\Debug\InterfaceExtensions.pdb

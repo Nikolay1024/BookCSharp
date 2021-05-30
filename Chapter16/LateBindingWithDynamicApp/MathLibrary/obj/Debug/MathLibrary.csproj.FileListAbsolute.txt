@@ -1,0 +1,6 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter16\LateBindingWithDynamicApp\MathLibrary\obj\Debug\MathLibrary.pdb

@@ -1,0 +1,15 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\MainWindow.g.cs
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\App.g.cs
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.lref
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\MainWindow.baml
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.g.resources
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.Properties.Resources.resources
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.GenerateResource.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.pdb

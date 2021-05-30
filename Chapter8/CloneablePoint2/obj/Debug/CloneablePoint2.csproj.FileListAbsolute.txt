@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CloneablePoint2\obj\Debug\CloneablePoint2.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CloneablePoint2\obj\Debug\CloneablePoint2.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CloneablePoint2\bin\Debug\CloneablePoint2.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CloneablePoint2\bin\Debug\CloneablePoint2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CloneablePoint2\bin\Debug\CloneablePoint2.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CloneablePoint2\obj\Debug\CloneablePoint2.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter8\CloneablePoint2\obj\Debug\CloneablePoint2.pdb

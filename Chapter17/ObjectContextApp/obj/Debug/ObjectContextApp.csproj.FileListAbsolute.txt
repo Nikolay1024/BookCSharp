@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ObjectContextApp\obj\Debug\ObjectContextApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ObjectContextApp\obj\Debug\ObjectContextApp.pdb

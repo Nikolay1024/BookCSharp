@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadShareData\bin\Debug\MultiThreadShareData.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadShareData\bin\Debug\MultiThreadShareData.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadShareData\bin\Debug\MultiThreadShareData.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadShareData\obj\Debug\MultiThreadShareData.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadShareData\obj\Debug\MultiThreadShareData.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadShareData\obj\Debug\MultiThreadShareData.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\MultiThreadShareData\obj\Debug\MultiThreadShareData.pdb

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\PLINQDataProcessingWithCancellation\bin\Debug\PLINQDataProcessingWithCancellation.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\PLINQDataProcessingWithCancellation\bin\Debug\PLINQDataProcessingWithCancellation.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\PLINQDataProcessingWithCancellation\bin\Debug\PLINQDataProcessingWithCancellation.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.pdb

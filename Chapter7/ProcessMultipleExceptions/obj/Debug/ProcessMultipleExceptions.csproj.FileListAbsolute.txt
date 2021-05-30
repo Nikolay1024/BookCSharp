@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter7\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter7\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter7\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter7\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter7\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter7\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter7\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.pdb

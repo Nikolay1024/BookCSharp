@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleDispose\bin\Debug\SimpleDispose.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleDispose\bin\Debug\SimpleDispose.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleDispose\obj\Debug\SimpleDispose.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleDispose\obj\Debug\SimpleDispose.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleDispose\obj\Debug\SimpleDispose.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter13\SimpleDispose\obj\Debug\SimpleDispose.pdb

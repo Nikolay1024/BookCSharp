@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadStats\bin\Debug\ThreadStats.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadStats\bin\Debug\ThreadStats.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadStats\bin\Debug\ThreadStats.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadStats\obj\Debug\ThreadStats.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadStats\obj\Debug\ThreadStats.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadStats\obj\Debug\ThreadStats.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter19\ThreadStats\obj\Debug\ThreadStats.pdb

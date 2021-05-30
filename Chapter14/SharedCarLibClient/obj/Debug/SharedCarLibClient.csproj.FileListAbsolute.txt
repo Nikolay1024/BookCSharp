@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter14\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter14\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter14\SharedCarLibClient\bin\Debug\SharedCarLibClient.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter14\SharedCarLibClient\obj\Debug\SharedCarLibClient.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter14\SharedCarLibClient\obj\Debug\SharedCarLibClient.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter14\SharedCarLibClient\obj\Debug\SharedCarLibClient.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter14\SharedCarLibClient\obj\Debug\SharedCarLibClient.pdb

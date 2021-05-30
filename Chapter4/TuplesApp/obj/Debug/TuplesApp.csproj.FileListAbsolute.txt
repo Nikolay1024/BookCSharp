@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter4\TuplesApp\obj\Debug\TuplesApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter4\TuplesApp\obj\Debug\TuplesApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter4\TuplesApp\bin\Debug\TuplesApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter4\TuplesApp\bin\Debug\TuplesApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter4\TuplesApp\bin\Debug\TuplesApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter4\TuplesApp\obj\Debug\TuplesApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter4\TuplesApp\obj\Debug\TuplesApp.pdb

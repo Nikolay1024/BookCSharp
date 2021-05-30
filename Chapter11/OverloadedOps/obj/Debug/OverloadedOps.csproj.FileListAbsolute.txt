@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter11\OverloadedOps\bin\Debug\OverloadedOps.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter11\OverloadedOps\bin\Debug\OverloadedOps.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\OverloadedOps\bin\Debug\OverloadedOps.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter11\OverloadedOps\obj\Debug\OverloadedOps.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\OverloadedOps\obj\Debug\OverloadedOps.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\OverloadedOps\obj\Debug\OverloadedOps.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\OverloadedOps\obj\Debug\OverloadedOps.pdb

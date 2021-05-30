@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ObjectInitializers\obj\Debug\ObjectInitializers.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

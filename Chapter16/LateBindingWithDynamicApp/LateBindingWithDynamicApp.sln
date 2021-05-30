@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateBindingWithDynamicApp", "LateBindingWithDynamicApp\LateBindingWithDynamicApp.csproj", "{C67C4C61-8166-4D25-BD32-A73A6A0208B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{3F006BDA-34BD-49FB-A7C7-7730FE2EE961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67C4C61-8166-4D25-BD32-A73A6A0208B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67C4C61-8166-4D25-BD32-A73A6A0208B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67C4C61-8166-4D25-BD32-A73A6A0208B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67C4C61-8166-4D25-BD32-A73A6A0208B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F006BDA-34BD-49FB-A7C7-7730FE2EE961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F006BDA-34BD-49FB-A7C7-7730FE2EE961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F006BDA-34BD-49FB-A7C7-7730FE2EE961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F006BDA-34BD-49FB-A7C7-7730FE2EE961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C96580F2-A966-4E38-8D2F-ADBD44CB9A90}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter11\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter11\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter11\AnonymousTypes\obj\Debug\AnonymousTypes.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter11\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter11\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

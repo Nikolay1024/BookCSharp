@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringApp\bin\Debug\StringApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringApp\bin\Debug\StringApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringApp\bin\Debug\StringApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringApp\obj\Debug\StringApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringApp\obj\Debug\StringApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringApp\obj\Debug\StringApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter3\StringApp\obj\Debug\StringApp.pdb

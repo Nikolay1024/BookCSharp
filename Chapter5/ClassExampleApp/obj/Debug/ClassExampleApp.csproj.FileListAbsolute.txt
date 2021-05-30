@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ClassExampleApp\bin\Debug\ClassExampleApp.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ClassExampleApp\bin\Debug\ClassExampleApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ClassExampleApp\bin\Debug\ClassExampleApp.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ClassExampleApp\obj\Debug\ClassExampleApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ClassExampleApp\obj\Debug\ClassExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ClassExampleApp\obj\Debug\ClassExampleApp.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter5\ClassExampleApp\obj\Debug\ClassExampleApp.pdb

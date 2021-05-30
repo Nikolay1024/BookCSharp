@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ProcessManipulator\obj\Debug\ProcessManipulator.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ProcessManipulator\obj\Debug\ProcessManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter17\ProcessManipulator\obj\Debug\ProcessManipulator.pdb

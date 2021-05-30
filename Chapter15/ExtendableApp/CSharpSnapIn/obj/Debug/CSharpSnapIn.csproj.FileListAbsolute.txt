@@ -1,0 +1,6 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.dll
+C:\Users\Николай\source\repos\Book-C#\Chapter15\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.pdb

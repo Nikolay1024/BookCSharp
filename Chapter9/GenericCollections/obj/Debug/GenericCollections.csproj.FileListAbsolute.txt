@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Book-C#\Chapter9\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\Николай\source\repos\Book-C#\Chapter9\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter9\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\Николай\source\repos\Book-C#\Chapter9\GenericCollections\obj\Debug\GenericCollections.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter9\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Book-C#\Chapter9\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\Николай\source\repos\Book-C#\Chapter9\GenericCollections\obj\Debug\GenericCollections.pdb
