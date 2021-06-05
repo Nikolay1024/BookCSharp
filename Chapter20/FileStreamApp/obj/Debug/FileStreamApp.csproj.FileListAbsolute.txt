@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\FileStreamApp\bin\Debug\FileStreamApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\FileStreamApp\bin\Debug\FileStreamApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\FileStreamApp\bin\Debug\FileStreamApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\FileStreamApp\obj\Debug\FileStreamApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\FileStreamApp\obj\Debug\FileStreamApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\FileStreamApp\obj\Debug\FileStreamApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\FileStreamApp\obj\Debug\FileStreamApp.pdb
