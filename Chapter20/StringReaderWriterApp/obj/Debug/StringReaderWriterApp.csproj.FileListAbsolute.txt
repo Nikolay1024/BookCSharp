@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.pdb
