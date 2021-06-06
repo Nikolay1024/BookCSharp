@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\BinaryWriterReaderApp\bin\Debug\BinaryWriterReaderApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\BinaryWriterReaderApp\bin\Debug\BinaryWriterReaderApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\BinaryWriterReaderApp\bin\Debug\BinaryWriterReaderApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\BinaryWriterReaderApp\obj\Debug\BinaryWriterReaderApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\BinaryWriterReaderApp\obj\Debug\BinaryWriterReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\BinaryWriterReaderApp\obj\Debug\BinaryWriterReaderApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\BinaryWriterReaderApp\obj\Debug\BinaryWriterReaderApp.pdb
