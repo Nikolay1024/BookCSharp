@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\DirectoryWatcherApp\bin\Debug\DirectoryWatcherApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\DirectoryWatcherApp\bin\Debug\DirectoryWatcherApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\DirectoryWatcherApp\bin\Debug\DirectoryWatcherApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\DirectoryWatcherApp\obj\Debug\DirectoryWatcherApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\DirectoryWatcherApp\obj\Debug\DirectoryWatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\DirectoryWatcherApp\obj\Debug\DirectoryWatcherApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\DirectoryWatcherApp\obj\Debug\DirectoryWatcherApp.pdb
