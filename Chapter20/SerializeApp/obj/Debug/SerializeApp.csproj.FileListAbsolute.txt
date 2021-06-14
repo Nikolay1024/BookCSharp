@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\SerializeApp\bin\Debug\SerializeApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\SerializeApp\bin\Debug\SerializeApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\SerializeApp\bin\Debug\SerializeApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\SerializeApp\obj\Debug\SerializeApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\SerializeApp\obj\Debug\SerializeApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\SerializeApp\obj\Debug\SerializeApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\SerializeApp\obj\Debug\SerializeApp.pdb
