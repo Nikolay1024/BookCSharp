@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter1\\Calc",
     "\\Chapter20",
+    "\\Chapter20\\SerializeApp",
     "\\Chapter20\\SimpleFileIO"
   ],
-  "SelectedNode": "\\Chapter20\\SimpleFileIO\\SimpleFileIO.sln",
+  "SelectedNode": "\\Chapter20\\SerializeApp\\SerializeApp.sln",
   "PreviewInSolutionExplorer": false
 }

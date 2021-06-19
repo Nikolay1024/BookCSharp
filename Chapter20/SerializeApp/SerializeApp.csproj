@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -48,6 +49,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\SerializedGraphObjects\BinaryCar.bin" />
+    <None Include="bin\Debug\SerializedGraphObjects\SoapCar.soap" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\SerializedGraphObjects\XmlCar.xml" />
+    <Content Include="bin\Debug\SerializedGraphObjects\XmlCarsList.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
