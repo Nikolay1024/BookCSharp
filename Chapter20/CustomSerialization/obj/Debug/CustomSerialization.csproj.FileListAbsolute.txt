@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\CustomSerialization\bin\Debug\CustomSerialization.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\CustomSerialization\bin\Debug\CustomSerialization.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\CustomSerialization\obj\Debug\CustomSerialization.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\CustomSerialization\obj\Debug\CustomSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\CustomSerialization\obj\Debug\CustomSerialization.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter20\CustomSerialization\obj\Debug\CustomSerialization.pdb
