@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\ConnectionFactoryApp\bin\Debug\ConnectionFactoryApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\ConnectionFactoryApp\bin\Debug\ConnectionFactoryApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\ConnectionFactoryApp\bin\Debug\ConnectionFactoryApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\ConnectionFactoryApp\obj\Debug\ConnectionFactoryApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\ConnectionFactoryApp\obj\Debug\ConnectionFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\ConnectionFactoryApp\obj\Debug\ConnectionFactoryApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\ConnectionFactoryApp\obj\Debug\ConnectionFactoryApp.pdb
