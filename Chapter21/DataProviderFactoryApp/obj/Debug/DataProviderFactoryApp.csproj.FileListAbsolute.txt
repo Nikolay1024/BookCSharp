@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\DataProviderFactoryApp\bin\Debug\DataProviderFactoryApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\DataProviderFactoryApp\bin\Debug\DataProviderFactoryApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\DataProviderFactoryApp\bin\Debug\DataProviderFactoryApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\DataProviderFactoryApp\obj\Debug\DataProviderFactoryApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\DataProviderFactoryApp\obj\Debug\DataProviderFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\DataProviderFactoryApp\obj\Debug\DataProviderFactoryApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\DataProviderFactoryApp\obj\Debug\DataProviderFactoryApp.pdb
