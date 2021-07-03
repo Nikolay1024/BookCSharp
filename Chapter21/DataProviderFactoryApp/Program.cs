@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Configuration;
 using System.Data.Common;
+using System.Data.SqlClient;
 
 namespace DataProviderFactoryApp
 {
@@ -10,8 +11,8 @@ namespace DataProviderFactoryApp
         {
             Console.WriteLine("=> Фабрика поставщиков данных");
             // Получить строку подключения и поставщик из файла *.config,
-            string dataProvider = ConfigurationManager.AppSettings["provider"];
-            string connectionString = ConfigurationManager.AppSettings["connectionString"];
+            string dataProvider = ConfigurationManager.AppSettings["Provider"];
+            string connectionString = ConfigurationManager.ConnectionStrings["AutoLotSqlProvider"].ConnectionString;
             // Получить фабрику поставщиков.
             DbProviderFactory providerFactory = DbProviderFactories.GetFactory(dataProvider);
             // Получить объект подключения.
@@ -25,6 +26,8 @@ namespace DataProviderFactoryApp
                 Console.WriteLine($"Объект подключения: {сonnection.GetType().Name}");
                 сonnection.ConnectionString = connectionString;
                 сonnection.Open();
+                if (сonnection is SqlConnection sqlConnection)
+                    Console.WriteLine($"Версия SQL Server: {sqlConnection.ServerVersion}");
                 // Создать объект команды.
                 DbCommand command = providerFactory.CreateCommand();
                 if (command == null)
@@ -46,6 +49,7 @@ namespace DataProviderFactoryApp
                 Console.ReadLine();
             }
         }
+
         static void ShowError(string objectName)
         {
             Console.WriteLine($"Возникла проблема с созданием объекта: {objectName}");
