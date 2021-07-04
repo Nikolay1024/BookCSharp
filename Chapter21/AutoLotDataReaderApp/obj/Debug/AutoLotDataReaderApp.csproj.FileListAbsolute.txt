@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\AutoLotDataReaderApp\bin\Debug\AutoLotDataReaderApp.exe.config
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\AutoLotDataReaderApp\bin\Debug\AutoLotDataReaderApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\AutoLotDataReaderApp\bin\Debug\AutoLotDataReaderApp.pdb
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\AutoLotDataReaderApp\obj\Debug\AutoLotDataReaderApp.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\AutoLotDataReaderApp\obj\Debug\AutoLotDataReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\AutoLotDataReaderApp\obj\Debug\AutoLotDataReaderApp.exe
+C:\Users\Николай\source\repos\Git\BookCSharp\Chapter21\AutoLotDataReaderApp\obj\Debug\AutoLotDataReaderApp.pdb

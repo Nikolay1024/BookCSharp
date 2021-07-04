@@ -2,4 +2,5 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/Chapter21/DataProviderFactoryApp/.vs/DataProviderFactoryApp/v16
+/.vs/DataProviderFactoryApp/v16
+/Chapter21/AutoLotDataReaderApp/.vs/AutoLotDataReaderApp/v16
