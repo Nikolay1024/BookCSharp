@@ -46,11 +46,11 @@ namespace AutoLotDataAccessLayer.DataOperations
                     });
             return inventory;
         }
-        public Car GetCarById(int id)
+        public Car GetCar(int carId)
         {
             OpenConnection();
             Car car = null;
-            string cmdText = $"SELECT * FROM Inventory WHERE CarId = {id}";
+            string cmdText = $"SELECT * FROM Inventory WHERE CarId = {carId}";
             using (SqlCommand sqlCommand = new SqlCommand(cmdText, SqlConnection))
             using (SqlDataReader sqlDataReader = sqlCommand.ExecuteReader(CommandBehavior.CloseConnection))
                 if (sqlDataReader.Read())
@@ -66,7 +66,7 @@ namespace AutoLotDataAccessLayer.DataOperations
         public void InsertCar(Car car)
         {
             OpenConnection();
-            // Обратите внимание на "@заполнители" в запросе SQL.
+            // Обратите внимание на "@параметры заполнители" в запросе SQL.
             string cmdText = $"INSERT Inventory (Make, Color, Name) VALUES (@Make, @Color, @Name)";
             // Эта команда будет иметь внутренние параметры.
             using (SqlCommand sqlCommand = new SqlCommand(cmdText, SqlConnection))
@@ -82,11 +82,11 @@ namespace AutoLotDataAccessLayer.DataOperations
             }
             CloseConnection();
         }
-        public void DeleteCar(int id)
+        public void DeleteCar(int carId)
         {
             OpenConnection();
             // Получить идентификатор автомобиля, подлежащего удалению, и удалить запись о нем.
-            string cmdText = $"DELETE FROM Inventory WHERE CarId = '{id}'";
+            string cmdText = $"DELETE FROM Inventory WHERE CarId = '{carId}'";
             using (SqlCommand sqlCommand = new SqlCommand(cmdText, SqlConnection))
             {
                 try
@@ -100,14 +100,38 @@ namespace AutoLotDataAccessLayer.DataOperations
             }
             CloseConnection();
         }
-        public void UpdateCarName(int id, string name)
+        public void UpdateCarName(int carId, string carName)
         {
             OpenConnection();
-            // Получить идентификатор автомобиля для модификации дружественного имени,
-            string cmdText = $"UPDATE Inventory SET Name = '{name}' WHERE CarId = '{id}'";
-            using (SqlCommand command = new SqlCommand(cmdText, SqlConnection))
-                command.ExecuteNonQuery();
+            // Получить идентификатор автомобиля для модификации дружественного имени.
+            string cmdText = $"UPDATE Inventory SET Name = '{carName}' WHERE CarId = '{carId}'";
+            using (SqlCommand sqlCommand = new SqlCommand(cmdText, SqlConnection))
+                sqlCommand.ExecuteNonQuery();
             CloseConnection();
+        }
+        public string GetCarName(int carId)
+        {
+            OpenConnection();
+            string carName;
+            // Установить имя хранимой процедуры.
+            using (SqlCommand sqlCommand = new SqlCommand("GetName", SqlConnection))
+            {
+                sqlCommand.CommandType = CommandType.StoredProcedure;
+                sqlCommand.Parameters.AddRange(new SqlParameter[]
+                {
+                    // Входной параметр.
+                    new SqlParameter("@carId", SqlDbType.Int) { Value = carId, Direction = ParameterDirection.Input },
+                    // Выходной параметр.
+                    new SqlParameter("@carName", SqlDbType.Char, 10) { Direction = ParameterDirection.Output }
+                });
+
+                // Выполнить хранимую процедуру.
+                sqlCommand.ExecuteNonQuery();
+                // Возвратить выходной параметр.
+                carName = (string)sqlCommand.Parameters["@carName"].Value;
+                CloseConnection();
+            }
+            return carName;
         }
     }
 }
