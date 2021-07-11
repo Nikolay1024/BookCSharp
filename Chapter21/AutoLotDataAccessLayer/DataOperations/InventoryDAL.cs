@@ -74,9 +74,9 @@ namespace AutoLotDataAccessLayer.DataOperations
                 // Заполнить коллекцию параметров.
                 sqlCommand.Parameters.AddRange(new SqlParameter[]
                 {
-                    new SqlParameter("@Make", SqlDbType.Char, 10) { Value = car.Make },
-                    new SqlParameter("@Color", SqlDbType.Char, 10) { Value = car.Color },
-                    new SqlParameter("@Name", SqlDbType.Char, 10) { Value = car.Name }
+                    new SqlParameter("@Make", SqlDbType.NVarChar, 50) { Value = car.Make },
+                    new SqlParameter("@Color", SqlDbType.NVarChar, 50) { Value = car.Color },
+                    new SqlParameter("@Name", SqlDbType.NVarChar, 50) { Value = car.Name }
                 });
                 sqlCommand.ExecuteNonQuery();
             }
@@ -95,7 +95,7 @@ namespace AutoLotDataAccessLayer.DataOperations
                 }
                 catch (SqlException ex)
                 {
-                    Console.WriteLine($"Этот автомобиль уже заказан!\n{ex.Message}");
+                    throw new Exception("Этот автомобиль уже заказан!", ex);
                 }
             }
             CloseConnection();
@@ -122,7 +122,7 @@ namespace AutoLotDataAccessLayer.DataOperations
                     // Входной параметр.
                     new SqlParameter("@carId", SqlDbType.Int) { Value = carId, Direction = ParameterDirection.Input },
                     // Выходной параметр.
-                    new SqlParameter("@carName", SqlDbType.Char, 10) { Direction = ParameterDirection.Output }
+                    new SqlParameter("@carName", SqlDbType.NVarChar, 50) { Direction = ParameterDirection.Output }
                 });
 
                 // Выполнить хранимую процедуру.
