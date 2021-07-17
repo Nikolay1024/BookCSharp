@@ -12,44 +12,63 @@ namespace AutoLotClient
         {
             Console.WriteLine("=> Доступ к данным с помощью ADO.NET");
 
-            DisplayAllCars();
-            Console.ReadLine();
+            ReadAllCars();
+            ReadCar();
+            DeleteCar();
+            CreateCar();
+            UpdateCarName();
+            ReadCarName();
+        }
 
-            Console.WriteLine("-> Car GetCar(int carId)");
-            Car carRusty = DAL.GetCar(DAL.GetAllCars().First(c => c.Name == "Rusty").CarId);
-            Console.WriteLine(carRusty);
+        private static void ReadAllCars()
+        {
+            Console.WriteLine("-> List<Car> ReadAllCars()");
+            foreach (Car car in DAL.ReadAllCars())
+                Console.WriteLine(car);
             Console.ReadLine();
-
+        }
+        private static void ReadCar()
+        {
+            Console.WriteLine("-> Car ReadCar(int carId)");
+            Console.WriteLine(DAL.ReadCar(1));
+            Console.ReadLine();
+        }
+        private static void DeleteCar()
+        {
             try
             {
                 Console.WriteLine("-> void DeleteCar(int carId)");
-                DAL.DeleteCar(carRusty.CarId);
+                int carRustyId = DAL.ReadAllCars().First(c => c.Name == "Rusty").CarId;
+                DAL.DeleteCar(carRustyId);
                 Console.WriteLine("Запись об автомобиле удалена");
-                DisplayAllCars();
-                Console.ReadLine();
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"Возникло исключение: {ex.Message}");
-                Console.ReadLine();
             }
-
-            Console.WriteLine("-> void InsertCar(Car car)");
-            DAL.InsertCar(carRusty);
-            carRusty = DAL.GetAllCars().First(c => c.Name == "Rusty");
-            DisplayAllCars();
-            Console.ReadLine();
-
-            Console.WriteLine("-> string GetCarName(int carId)");
-            Console.WriteLine($"CarId={carRusty.CarId}; Name={DAL.GetCarName(carRusty.CarId)};");
-            Console.ReadLine();
+            finally
+            {
+                ReadAllCars();
+            }
         }
-
-        private static void DisplayAllCars()
+        private static void CreateCar()
         {
-            Console.WriteLine("-> List<Car> GetAllCars()");
-            foreach (Car car in DAL.GetAllCars())
-                Console.WriteLine(car);
+            Console.WriteLine("-> void CreateCar(Car car)");
+            DAL.CreateCar(new Car("Rust", "Ford", "Rusty"));
+            ReadAllCars();
+        }
+        private static void UpdateCarName()
+        {
+            Console.WriteLine("-> void UpdateCarName(int carId, string newCarName)");
+            string newCarName = DAL.ReadCarName(1) == "Zippy" ? "NewZippy" : "Zippy";
+            DAL.UpdateCarName(1, newCarName);
+            ReadAllCars();
+        }
+        private static void ReadCarName()
+        {
+            Console.WriteLine("-> string ReadCarName(int carId)");
+            Console.WriteLine(DAL.ReadCarName(1));
+            Console.ReadLine();
         }
     }
 }

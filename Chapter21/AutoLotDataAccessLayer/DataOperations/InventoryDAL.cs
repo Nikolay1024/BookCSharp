@@ -28,7 +28,7 @@ namespace AutoLotDataAccessLayer.DataOperations
                 SqlConnection?.Close();
         }
 
-        public List<Car> GetAllCars()
+        public List<Car> ReadAllCars()
         {
             OpenConnection();
             // Здесь будут храниться записи.
@@ -46,7 +46,7 @@ namespace AutoLotDataAccessLayer.DataOperations
                     });
             return inventory;
         }
-        public Car GetCar(int carId)
+        public Car ReadCar(int carId)
         {
             OpenConnection();
             Car car = null;
@@ -63,7 +63,7 @@ namespace AutoLotDataAccessLayer.DataOperations
                     };
             return car;
         }
-        public void InsertCar(Car car)
+        public void CreateCar(Car car)
         {
             OpenConnection();
             // Обратите внимание на "@параметры заполнители" в запросе SQL.
@@ -100,16 +100,16 @@ namespace AutoLotDataAccessLayer.DataOperations
             }
             CloseConnection();
         }
-        public void UpdateCarName(int carId, string carName)
+        public void UpdateCarName(int carId, string newCarName)
         {
             OpenConnection();
             // Получить идентификатор автомобиля для модификации дружественного имени.
-            string cmdText = $"UPDATE Inventory SET Name = '{carName}' WHERE CarId = '{carId}'";
+            string cmdText = $"UPDATE Inventory SET Name = '{newCarName}' WHERE CarId = '{carId}'";
             using (SqlCommand sqlCommand = new SqlCommand(cmdText, SqlConnection))
                 sqlCommand.ExecuteNonQuery();
             CloseConnection();
         }
-        public string GetCarName(int carId)
+        public string ReadCarName(int carId)
         {
             OpenConnection();
             string carName;
