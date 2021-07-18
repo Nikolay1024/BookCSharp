@@ -10,14 +10,16 @@ namespace AutoLotClient
         private static readonly InventoryDAL DAL = new InventoryDAL();
         private static void Main()
         {
-            Console.WriteLine("=> Доступ к данным с помощью ADO.NET");
-
+            Console.WriteLine("=> Работа с запросами создания, обновления и удаления");
             ReadAllCars();
             ReadCar();
             DeleteCar();
             CreateCar();
             UpdateCarName();
             ReadCarName();
+
+            Console.WriteLine("=> Понятие транзакций базы данных");
+            MoveCustomer();
         }
 
         private static void ReadAllCars()
@@ -68,6 +70,17 @@ namespace AutoLotClient
         {
             Console.WriteLine("-> string ReadCarName(int carId)");
             Console.WriteLine(DAL.ReadCarName(1));
+            Console.ReadLine();
+        }
+        private static void MoveCustomer()
+        {
+            // Простой способ позволить транзакции успешно завершиться или отказать.
+            Console.Write("Хотите ли вы сгенерировать исключение? (Y или N): ");
+            bool throwEx = Console.ReadLine()?.ToUpper() == "Y";
+            InventoryDAL DAL = new InventoryDAL();
+            // Переместить клиента (customerId = 1), в таблицу ненадежных заемщиков кредита.
+            DAL.MoveCustomerToCreditRisk(throwEx, customerId: 1);
+            Console.WriteLine("Результаты ищите в таблице CreditRisk");
             Console.ReadLine();
         }
     }
