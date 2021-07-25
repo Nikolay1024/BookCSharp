@@ -1,6 +1,7 @@
 ﻿using AutoLotDataAccessLayer.Models;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -12,7 +13,7 @@ namespace AutoLotDataAccessLayer.DataOperations
         private readonly string ConnectionString;
 
         public InventoryDAL()
-            : this(@"Data Source = NIK\SQLEXPRESS;Initial Catalog=AutoLot;Integrated Security=true")
+            : this(ConfigurationManager.ConnectionStrings["AutoLotSqlProvider"].ConnectionString)
         { }
         public InventoryDAL(string connectionString)
             => ConnectionString = connectionString;

@@ -1,6 +1,8 @@
-﻿using AutoLotDataAccessLayer.DataOperations;
+﻿using AutoLotDataAccessLayer.BulkImport;
+using AutoLotDataAccessLayer.DataOperations;
 using AutoLotDataAccessLayer.Models;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace AutoLotClient
@@ -20,6 +22,9 @@ namespace AutoLotClient
 
             Console.WriteLine("=> Понятие транзакций базы данных");
             MoveCustomer();
+
+            Console.WriteLine("=> Массовое копирование данных");
+            DoBulkCopy();
         }
 
         private static void ReadAllCars()
@@ -82,6 +87,18 @@ namespace AutoLotClient
             DAL.MoveCustomerToCreditRisk(throwEx, customerId: 1);
             Console.WriteLine("Результаты ищите в таблице CreditRisk");
             Console.ReadLine();
+        }
+        public static void DoBulkCopy()
+        {
+            var cars = new List<Car>()
+            {
+                new Car("Blue", "Honda", "MyCar1"),
+                new Car("Red", "Volvo", "MyCar2"),
+                new Car("White", "VW", "МуСагЗ"),
+                new Car("Yellow", "Toyota", "MyCar4")
+            };
+            ProcessBulkImport.ExecuteBulkImport<Car>(cars, "Inventory");
+            ReadAllCars();
         }
     }
 }

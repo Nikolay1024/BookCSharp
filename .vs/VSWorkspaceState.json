@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter20",
-    "\\Chapter20\\SerializeApp",
-    "\\Chapter20\\SimpleFileIO"
+    "\\Chapter21",
+    "\\Chapter21\\AutoLotDataAccessLayer"
   ],
-  "SelectedNode": "\\Chapter20\\SerializeApp\\SerializeApp.sln",
+  "SelectedNode": "\\Chapter21\\AutoLotDataAccessLayer\\AutoLotDataAccessLayer.sln",
   "PreviewInSolutionExplorer": false
 }
