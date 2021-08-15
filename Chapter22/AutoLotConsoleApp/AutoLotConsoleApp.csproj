@@ -58,6 +58,7 @@
     <Compile Include="EntityFramework\Customer.cs" />
     <Compile Include="EntityFramework\Car.cs" />
     <Compile Include="EntityFramework\Order.cs" />
+    <Compile Include="Models\OrderPartial.cs" />
     <Compile Include="Models\ShortCar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
