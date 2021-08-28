@@ -1,20 +1,12 @@
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace AutoLotDataAccessLayer.Models
 {
-    using System;
-    using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-    using System.ComponentModel.DataAnnotations.Schema;
-    using System.Data.Entity.Spatial;
-
     [Table("Inventory")]
     public partial class Inventory
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Inventory()
-        {
-            Orders = new HashSet<Order>();
-        }
-
         [Key]
         [Column("car_id")]
         public int CarId { get; set; }
@@ -31,7 +23,11 @@ namespace AutoLotDataAccessLayer.Models
         [StringLength(50)]
         public string Name { get; set; }
 
+        [NotMapped]
+        public string MakeColor => $"Make:{ Make }; Color:{ Color };";
+
+
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Order> Orders { get; set; }
+        public virtual ICollection<Order> Orders { get; set; } = new HashSet<Order>();
     }
 }

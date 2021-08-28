@@ -2,6 +2,7 @@
 {
     public partial class Inventory
     {
+        public Inventory() { }
         public Inventory(string make, string color, string name) : base()
         {
             Make = make;
