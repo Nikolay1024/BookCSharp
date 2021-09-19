@@ -1,3 +1,4 @@
+using AutoLotDataAccessLayer.Models.Base;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -5,12 +6,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace AutoLotDataAccessLayer.Models
 {
     [Table("Inventory")]
-    public partial class Inventory
+    public partial class Inventory : EntityBase
     {
-        [Key]
-        [Column("car_id")]
-        public int CarId { get; set; }
-
         [Column("make")]
         [StringLength(50)]
         public string Make { get; set; }

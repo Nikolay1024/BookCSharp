@@ -4,7 +4,7 @@
     {
         public override string ToString()
         {
-            return $"OrderId:{ OrderId }; CustomerId:{ CustomerId }; CarId:{ CarId };";
+            return $"OrderId:{ Id }; CustomerId:{ CustomerId }; CarId:{ CarId };";
         }
     }
 }

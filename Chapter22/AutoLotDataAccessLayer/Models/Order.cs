@@ -1,17 +1,10 @@
+using AutoLotDataAccessLayer.Models.Base;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace AutoLotDataAccessLayer.Models
 {
-    using System;
-    using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-    using System.ComponentModel.DataAnnotations.Schema;
-    using System.Data.Entity.Spatial;
-
-    public partial class Order
+    public partial class Order : EntityBase
     {
-        [Key]
-        [Column("order_id")]
-        public int OrderId { get; set; }
-
         [Column("customer_id")]
         public int CustomerId { get; set; }
 
@@ -20,8 +13,9 @@ namespace AutoLotDataAccessLayer.Models
         [Column("car_id")]
         public int CarId { get; set; }
 
-        
+
         // Ќавигационные свойста.
+        [ForeignKey(nameof(CustomerId))]
         public virtual Customer Customer { get; set; }
 
         // ≈сли нужно назначить свойству им€ отличное от CarId, тогда навигационное свойство

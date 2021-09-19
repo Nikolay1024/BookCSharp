@@ -1,12 +1,17 @@
-﻿using AutoLotDataAccessLayer.Models;
+﻿using AutoLotDataAccessLayer.EntityFramework;
+using AutoLotDataAccessLayer.Models;
 using System.Collections.Generic;
-using System.Data.Entity;
 using System.Data.Entity.Migrations;
 
-namespace AutoLotDataAccessLayer.EntityFramework
+namespace AutoLotDataAccessLayer.Migrations
 {
-    public class MyDataInitializer : DropCreateDatabaseAlways<AutoLotEntities>
+    internal sealed class Configuration : DbMigrationsConfiguration<AutoLotEntities>
     {
+        public Configuration()
+        {
+            AutomaticMigrationsEnabled = false;
+        }
+
         protected override void Seed(AutoLotEntities context)
         {
             var customers = new List<Customer>()
@@ -33,7 +38,7 @@ namespace AutoLotDataAccessLayer.EntityFramework
                 new Inventory("Yugo", "Brown", "Brownie"),
             };
             inventory.ForEach(inv => context.Inventory.AddOrUpdate(i => new { i.Make, i.Color }, inv));
-            
+
             var orders = new List<Order>()
             {
                 new Order { Inventory = inventory[0], Customer = customers[0]},

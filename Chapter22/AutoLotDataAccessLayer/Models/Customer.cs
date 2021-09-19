@@ -1,15 +1,12 @@
+using AutoLotDataAccessLayer.Models.Base;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AutoLotDataAccessLayer.Models
 {
-    public partial class Customer
+    public partial class Customer : EntityBase
     {
-        [Key]
-        [Column("customer_id")]
-        public int CustomerId { get; set; }
-
         [Column("first_name")]
         [StringLength(50)]
         public string FirstName { get; set; }

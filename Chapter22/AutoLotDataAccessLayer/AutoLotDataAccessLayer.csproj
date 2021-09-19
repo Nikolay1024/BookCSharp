@@ -53,16 +53,32 @@
   <ItemGroup>
     <Compile Include="EntityFramework\AutoLotEntities.cs" />
     <Compile Include="EntityFramework\MyDataInitializer.cs" />
+    <Compile Include="Migrations\202108291433104_Initial.cs" />
+    <Compile Include="Migrations\202108291433104_Initial.designer.cs">
+      <DependentUpon>202108291433104_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109191625169_Final.cs" />
+    <Compile Include="Migrations\202109191625169_Final.designer.cs">
+      <DependentUpon>202109191625169_Final.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Base\EntityBase.cs" />
     <Compile Include="Models\Inventory.cs" />
     <Compile Include="Models\InventoryPartial.cs" />
     <Compile Include="Models\CreditRisk.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Models\OrderPartial.cs" />
-    <Compile Include="Models\ShortCar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202108291433104_Initial.resx">
+      <DependentUpon>202108291433104_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109191625169_Final.resx">
+      <DependentUpon>202109191625169_Final.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

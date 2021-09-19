@@ -13,7 +13,7 @@
         public override string ToString()
         {
             // Поскольку столбец Name может быть пустым, предоставить стандартное имя NoName.
-            return $"Id:{ CarId }; Name:{ Name ?? "NoName" }; Color:{ Color }; Make:{ Make };";
+            return $"Id:{ Id }; Name:{ Name ?? "NoName" }; Color:{ Color }; Make:{ Make };";
         }
     }
 }

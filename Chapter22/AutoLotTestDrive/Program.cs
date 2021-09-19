@@ -9,7 +9,7 @@ namespace AutoLotTestDrive
     {
         static void Main()
         {
-            Database.SetInitializer(new MyDataInitializer());
+            //Database.SetInitializer(new MyDataInitializer());
             Console.WriteLine("=> ADO.NET Entity Framework 6 Code First (from Model)");
             using (AutoLotEntities context = new AutoLotEntities())
                 foreach (Inventory inventory in context.Inventory)
