@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AF055625-8F34-4020-A9CB-95E8F87B2CB1}</ProjectGuid>
+    <ProjectGuid>{84A9B2B5-6A61-4F59-A6AA-93D2BBB7C623}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutoLotDataAccessLayer</RootNamespace>
-    <AssemblyName>AutoLotDataAccessLayer</AssemblyName>
+    <RootNamespace>AutoLotDataAccessLayer.Models</RootNamespace>
+    <AssemblyName>AutoLotDataAccessLayer.Models</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -35,10 +35,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+      <HintPath>..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <HintPath>..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -51,48 +51,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EntityFramework\AutoLotEntities.cs" />
-    <Compile Include="EntityFramework\MyDataInitializer.cs" />
-    <Compile Include="Interception\ConsoleWriterInterceptor.cs" />
-    <Compile Include="Migrations\202108291433104_Initial.cs" />
-    <Compile Include="Migrations\202108291433104_Initial.designer.cs">
-      <DependentUpon>202108291433104_Initial.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202109191625169_Final.cs" />
-    <Compile Include="Migrations\202109191625169_Final.designer.cs">
-      <DependentUpon>202109191625169_Final.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Base\EntityBase.cs" />
+    <Compile Include="Models\CreditRisk.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Inventory.cs" />
+    <Compile Include="Models\InventoryPartial.cs" />
+    <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\OrderPartial.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repos\BaseRepo.cs" />
-    <Compile Include="Repos\InventoryRepo.cs" />
-    <Compile Include="Repos\IRepo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\202108291433104_Initial.resx">
-      <DependentUpon>202108291433104_Initial.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202109191625169_Final.resx">
-      <DependentUpon>202109191625169_Final.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AutoLotDataAccessLayer.Models\AutoLotDataAccessLayer.Models.csproj">
-      <Project>{84a9b2b5-6a61-4f59-a6aa-93d2bbb7c623}</Project>
-      <Name>AutoLotDataAccessLayer.Models</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
       <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
     </PropertyGroup>
-    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
-    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
   </Target>
-  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\AutoLotDataAccessLayer\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
 </Project>

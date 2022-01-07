@@ -27,6 +27,10 @@ namespace AutoLotTestDrive
             Console.WriteLine("=> Исключение параллельного обновления БД (DbUpdateConcurrencyException)");
             TestConcurrency();
             Console.ReadLine();
+
+            Console.WriteLine("=> События ObjectMaterialized и SavingChanges");
+            UpdateInventory(1);
+            Console.ReadLine();
         }
 
         private static void AddInventory(Inventory inventory)
@@ -82,11 +86,11 @@ namespace AutoLotTestDrive
                 DbPropertyValues databaseValues = dbEntityEntry.GetDatabaseValues();
                 Console.WriteLine("|{0,65}| |{1,-49}|", "Этапы", "Значение свойства \"Name\" и \"Timestamp\"");
                 Console.WriteLine("|{0,65}| |{1,-49}|", "", "отслеживаемой сущности");
-                Console.WriteLine("|{0,65}| |{1,-23}; {2,-24}|", "Original (Исходный, При последнем обновлении контекста из БД)",
+                Console.WriteLine("|{0,65}| |{1,-23}| {2,-24}|", "Original (Исходный, При последнем обновлении контекста из БД)",
                     originalValues["Name"], ((byte[])originalValues["Timestamp"]).Last());
-                Console.WriteLine("|{0,65}| |{1,-23}; {2,-24}|", "Current (Текущий, Исходное или измененное)",
+                Console.WriteLine("|{0,65}| |{1,-23}| {2,-24}|", "Current (Текущий, Исходное или измененное)",
                     currentValues["Name"], ((byte[])currentValues["Timestamp"]).Last());
-                Console.WriteLine("|{0,65}| |{1,-23}; {2,-24}|", "Database (В БД, В БД в момент возникновения исключения) {0,57}",
+                Console.WriteLine("|{0,65}| |{1,-23}| {2,-24}|", "Database (В БД, В БД в момент возникновения исключения)",
                     databaseValues["Name"], ((byte[])databaseValues["Timestamp"]).Last());
             }
         }

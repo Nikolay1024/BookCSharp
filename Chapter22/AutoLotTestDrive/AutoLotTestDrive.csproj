@@ -61,6 +61,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AutoLotDataAccessLayer.Models\AutoLotDataAccessLayer.Models.csproj">
+      <Project>{84a9b2b5-6a61-4f59-a6aa-93d2bbb7c623}</Project>
+      <Name>AutoLotDataAccessLayer.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AutoLotDataAccessLayer\AutoLotDataAccessLayer.csproj">
       <Project>{af055625-8f34-4020-a9cb-95e8f87b2cb1}</Project>
       <Name>AutoLotDataAccessLayer</Name>

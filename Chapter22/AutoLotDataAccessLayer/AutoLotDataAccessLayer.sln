@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDataAccessLayer", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotTestDrive", "..\AutoLotTestDrive\AutoLotTestDrive.csproj", "{4FABC37F-361A-48F2-8A7A-A9A2C5AB90DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDataAccessLayer.Models", "..\AutoLotDataAccessLayer.Models\AutoLotDataAccessLayer.Models.csproj", "{84A9B2B5-6A61-4F59-A6AA-93D2BBB7C623}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4FABC37F-361A-48F2-8A7A-A9A2C5AB90DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FABC37F-361A-48F2-8A7A-A9A2C5AB90DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FABC37F-361A-48F2-8A7A-A9A2C5AB90DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A9B2B5-6A61-4F59-A6AA-93D2BBB7C623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A9B2B5-6A61-4F59-A6AA-93D2BBB7C623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A9B2B5-6A61-4F59-A6AA-93D2BBB7C623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A9B2B5-6A61-4F59-A6AA-93D2BBB7C623}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
