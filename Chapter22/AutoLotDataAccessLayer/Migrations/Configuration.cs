@@ -41,10 +41,10 @@ namespace AutoLotDataAccessLayer.Migrations
 
             var orders = new List<Order>()
             {
-                new Order { Inventory = inventory[0], Customer = customers[0]},
-                new Order { Inventory = inventory[1], Customer = customers[1]},
-                new Order { Inventory = inventory[2], Customer = customers[2]},
-                new Order { Inventory = inventory[3], Customer = customers[3]},
+                new Order { Inventory = inventory[0], Customer = customers[0] },
+                new Order { Inventory = inventory[1], Customer = customers[1] },
+                new Order { Inventory = inventory[2], Customer = customers[2] },
+                new Order { Inventory = inventory[3], Customer = customers[3] },
             };
             context.Orders.AddOrUpdate(o => new { o.CarId, o.CustomerId }, orders.ToArray());
 
