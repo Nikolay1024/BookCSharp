@@ -7,11 +7,11 @@ namespace MagicEightBallServiceLib
         // Просто для отображения на хосте.
         public MagicEightBallService()
         {
-            Console.WriteLine("The 8-Ball awaits your question...");
+            Console.WriteLine("8-Ball ожидает твоего вопроса...");
         }
         public string ObtainAnswerToQuestion(string userQuestion)
         {
-            string[] answers = { "Future Uncertain", "Yes", "No", "Hazy", "Ask again later", "Definitely" };
+            string[] answers = { "Будущее неопределенно", "Да", "Нет", "Туманно", "Спросите позже", "Определенно" };
             // Возвратить случайный ответ.
             Random r = new Random();
             return answers[r.Next(answers.Length)];

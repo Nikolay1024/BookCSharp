@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicEightBallServiceLib", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicEightBallServiceHost", "MagicEightBallServiceHost\MagicEightBallServiceHost.csproj", "{C1A71ECD-EF82-4911-B0B8-F6AF7B26FA6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicEightBallServiceClient", "MagicEightBallServiceClient\MagicEightBallServiceClient.csproj", "{717A26DB-8DBE-42D2-99A8-41392F9921D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C1A71ECD-EF82-4911-B0B8-F6AF7B26FA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A71ECD-EF82-4911-B0B8-F6AF7B26FA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A71ECD-EF82-4911-B0B8-F6AF7B26FA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717A26DB-8DBE-42D2-99A8-41392F9921D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717A26DB-8DBE-42D2-99A8-41392F9921D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717A26DB-8DBE-42D2-99A8-41392F9921D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717A26DB-8DBE-42D2-99A8-41392F9921D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,1 @@
+svcutil http://localhost:8080/MagicEightBallService /out:myProxy.cs /config:app.config
