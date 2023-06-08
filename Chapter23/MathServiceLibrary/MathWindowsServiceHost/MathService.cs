@@ -1,6 +1,5 @@
 ﻿using MathServiceLibrary;
 using System.ServiceModel;
-using System.ServiceProcesses;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
