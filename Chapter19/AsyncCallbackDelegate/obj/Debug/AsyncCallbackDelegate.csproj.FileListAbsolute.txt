@@ -5,3 +5,10 @@ C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncCallbackDelegate\obj
 C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.csproj.CoreCompileInputs.cache
 C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.exe
 C:\Users\Николай\source\repos\Book-C#\Chapter19\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe.config
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.csproj.AssemblyReference.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.csproj.CoreCompileInputs.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.pdb

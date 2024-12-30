@@ -47,6 +47,11 @@ namespace LinqExpressions
             DisplayConcat(cars1, cars2);
             DisplayConcatNoDups(cars1, cars2);
             AggregateOps();
+
+            LinqGrouping1();
+            LinqGrouping2();
+            LinqGrouping3();
+
             Console.ReadKey();
         }
 
@@ -107,16 +112,14 @@ namespace LinqExpressions
         static void SortedNamesAndNumberInStock(ProductInfo[] products)
         {
             var nameNum = from p in products
-                          orderby p.Name
-       ascending
+                          orderby p.Name ascending
                           select new { p.Name, p.NumberInStock };
             Console.WriteLine("Имена товаров в алфавитном порядке:");
             foreach (var item in nameNum)
                 Console.WriteLine(item);
             Console.WriteLine();
             nameNum = from p in products
-                      orderby p.NumberInStock
-   descending
+                      orderby p.NumberInStock descending
                       select new { p.Name, p.NumberInStock };
             Console.WriteLine("Количество товаров в порядке убывания:");
             foreach (var item in nameNum)
@@ -168,6 +171,108 @@ namespace LinqExpressions
             Console.WriteLine("Сумма всех температур: {0}",
                 (from t in winterTemps select t).Sum());
             Console.WriteLine();
+        }
+
+        static void LinqGrouping1()
+        {
+            Console.WriteLine("=> Группировка LINQ");
+
+            Person[] people =
+            {
+                new Person("Tom", "Microsoft"), new Person("Sam", "Google"),
+                new Person("Bob", "JetBrains"), new Person("Mike", "Microsoft"),
+                new Person("Kate", "JetBrains"), new Person("Alice", "Microsoft"),
+            };
+
+            //Группировка людей по компаниям (Выражение запроса LINQ).
+            //IEnumerable<IGrouping<string, Person>> peopleGroupingByCompanies =
+            //    from person in people
+            //    group person by person.Company;
+
+            //Группировка людей по компаниям (Расширяющий метод LINQ).
+            IEnumerable<IGrouping<string, Person>> peopleGroupingByCompanies =
+                people.GroupBy(p => p.Company);
+
+            foreach (IGrouping<string, Person> peopleGroupingByCompany in peopleGroupingByCompanies)
+            {
+                Console.WriteLine(peopleGroupingByCompany.Key); // Ключ - Компания.
+
+                foreach (Person person in peopleGroupingByCompany) // Значение - Список людей в этой компании.
+                    Console.WriteLine(person.Name);
+
+                Console.WriteLine(); // Для разделения между группами.
+            }
+        }
+        static void LinqGrouping2()
+        {
+            Console.WriteLine("=> Создание нового объекта при группировке LINQ");
+
+            Person[] people =
+            {
+                new Person("Tom", "Microsoft"), new Person("Sam", "Google"),
+                new Person("Bob", "JetBrains"), new Person("Mike", "Microsoft"),
+                new Person("Kate", "JetBrains"), new Person("Alice", "Microsoft"),
+            };
+
+            // Определяет переменную iGrouping типа IGrouping<string, Person>,
+            // которая будет содержать Компанию и Список людей в этой компании.
+            // С помощью этой переменной мы можем затем создать новый объект анонимного типа.
+
+            // Группировка людей по компаниям (Выражение запроса LINQ).
+            //var peopleGroupingByCompanies =
+            //    from person in people
+            //    group person by person.Company into iGrouping
+            //    select new { Company = iGrouping.Key, PeopleCount = iGrouping.Count() };
+
+            // Группировка людей по компаниям (Расширяющий метод LINQ).
+            var peopleGroupingByCompanies =
+                people.GroupBy(p => p.Company).Select(g => new { Company = g.Key, PeopleCount = g.Count() });
+
+            foreach (var company in peopleGroupingByCompanies)
+                Console.WriteLine($"{company.Company} : {company.PeopleCount}");
+
+            Console.WriteLine();
+        }
+        static void LinqGrouping3()
+        {
+            Console.WriteLine("=> Вложенный запрос LINQ");
+
+            Person[] people =
+            {
+                new Person("Tom", "Microsoft"), new Person("Sam", "Google"),
+                new Person("Bob", "JetBrains"), new Person("Mike", "Microsoft"),
+                new Person("Kate", "JetBrains"), new Person("Alice", "Microsoft"),
+            };
+
+            // Группировка людей по компаниям (Выражение запроса LINQ).
+            //var peopleGroupingByCompanies =
+            //    from person in people
+            //    group person by person.Company into iGrouping
+            //    select new
+            //    {
+            //        Company = iGrouping.Key,
+            //        PeopleCount = iGrouping.Count(),
+            //        Employees = from person in iGrouping select person, // Вложенный запрос.
+            //    };
+
+            // Группировка людей по компаниям (Расширяющий метод LINQ).
+            var peopleGroupingByCompanies =
+                people.GroupBy(p => p.Company).Select(g => new
+                {
+                    Company = g.Key,
+                    PeopleCount = g.Count(),
+                    Employees = g.Select(p => p),
+                });
+
+            foreach (var peopleGroupingByCompany in peopleGroupingByCompanies)
+            {
+                Console.WriteLine($"{peopleGroupingByCompany.Company}: {peopleGroupingByCompany.PeopleCount}");
+
+                foreach (Person employee in peopleGroupingByCompany.Employees)
+                    Console.WriteLine(employee.Name);
+
+                Console.WriteLine(); // Для разделения компаний.
+            }
         }
     }
 }

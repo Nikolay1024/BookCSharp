@@ -5,3 +5,10 @@ C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug
 C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.csproj.CoreCompileInputs.cache
 C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.exe
 C:\Users\Николай\source\repos\Book-C#\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter12\LinqExpressions\bin\Debug\LinqExpressions.exe.config
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter12\LinqExpressions\bin\Debug\LinqExpressions.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter12\LinqExpressions\bin\Debug\LinqExpressions.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.csproj.AssemblyReference.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.csproj.CoreCompileInputs.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter12\LinqExpressions\obj\Debug\LinqExpressions.pdb

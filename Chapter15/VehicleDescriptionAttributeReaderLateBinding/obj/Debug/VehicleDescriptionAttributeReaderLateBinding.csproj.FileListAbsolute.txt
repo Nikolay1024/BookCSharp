@@ -5,3 +5,10 @@ C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttribu
 C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\VehicleDescriptionAttributeReaderLateBinding.csproj.CoreCompileInputs.cache
 C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\VehicleDescriptionAttributeReaderLateBinding.exe
 C:\Users\Николай\source\repos\Book-C#\Chapter15\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\VehicleDescriptionAttributeReaderLateBinding.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter15\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\VehicleDescriptionAttributeReaderLateBinding.exe.config
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter15\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\VehicleDescriptionAttributeReaderLateBinding.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter15\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\VehicleDescriptionAttributeReaderLateBinding.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter15\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\VehicleDescriptionAttributeReaderLateBinding.csproj.AssemblyReference.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter15\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\VehicleDescriptionAttributeReaderLateBinding.csproj.CoreCompileInputs.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter15\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\VehicleDescriptionAttributeReaderLateBinding.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter15\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\VehicleDescriptionAttributeReaderLateBinding.pdb

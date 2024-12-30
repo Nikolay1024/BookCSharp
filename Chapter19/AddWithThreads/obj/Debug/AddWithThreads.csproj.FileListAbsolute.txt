@@ -5,3 +5,10 @@ C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\
 C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.csproj.CoreCompileInputs.cache
 C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.exe
 C:\Users\Николай\source\repos\Book-C#\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AddWithThreads\bin\Debug\AddWithThreads.exe.config
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AddWithThreads\bin\Debug\AddWithThreads.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AddWithThreads\bin\Debug\AddWithThreads.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.csproj.AssemblyReference.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.csproj.CoreCompileInputs.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter19\AddWithThreads\obj\Debug\AddWithThreads.pdb

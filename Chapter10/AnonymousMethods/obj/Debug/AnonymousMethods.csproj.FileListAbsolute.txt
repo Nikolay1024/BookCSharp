@@ -5,3 +5,10 @@ C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debu
 C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
 C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
 C:\Users\Николай\source\repos\Book-C#\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter10\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter10\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter10\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.AssemblyReference.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+A:\Users\zorin\Source\Repos\BookCSharp\Chapter10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb
